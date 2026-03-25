@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.sqlite
+*.db
+models/*.pkl
+data/profiles/*
+!data/profiles/README.md
+data/sample_attendance.csv
+.streamlit/
